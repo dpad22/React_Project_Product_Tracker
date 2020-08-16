@@ -1,0 +1,11 @@
+.row{
+    padding-top: 20px;
+    width: 55%;
+}
+form{
+    justify-content: center;
+}
+.container{
+    justify-content: center;
+    align-items: center;
+}
